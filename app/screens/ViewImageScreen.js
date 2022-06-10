@@ -22,6 +22,7 @@ function ViewImageScreen(props) {
         </View>
     );
 }
+
 const styles = StyleSheet.create({
     closeIcon: {
         position: "absolute",
